@@ -6,4 +6,4 @@
 - [Graebner (2018)](http://jasss.soc.surrey.ac.uk/21/3/8.html)
 - [Weisberg (2015)](https://www.amazon.com/Simulation-Similarity-Understand-Studies-Philosophy/dp/0190265124/ref=sr_1_fkmrnull_1?keywords=weisberg+simulation&qid=1555434168&s=gateway&sr=8-1-fkmrnull)
 - [Aydinonat (2018)](https://www.tandfonline.com/eprint/HMpV6wgkV2hYmTKpnnKJ/full)
-- Mais referencias no [meu tcc](https://github.com/marcelovmaciel/PolMol/themes/phil/files/Monografia_v1.pdf)
+- Mais referencias no [meu tcc](https://github.com/marcelovmaciel/PolMol/blob/master/themes/phil/files/Monografia_v1.pdf)
